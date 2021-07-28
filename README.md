@@ -1,22 +1,22 @@
-# Getting Started with Create React App
+# Breaking Bad Characters Database
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Search up your favourite Breaking Bad Character
 
-## Available Scripts
+Breaking Bad Characters Database is a React app built for checking your favourite Breaking Bad characters
 
-In the project directory, you can run:
+Data provided by [Breaking Bad API](https://breakingbadapi.com/) 
 
-### `npm start`
+[Demo](https://breaking-bad-felix.netlify.app/) 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![alt text](https://www.dropbox.com/s/edji891ds4tr01o/home.png?raw=1 "Logo Title Text 1")
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# Features
 
-### Additional Features
+### 1. Search for a Character
 
-Duplicate tags cannot be added
-Click on tags to remove
-case insenstive searching
-remove leading and trailing whitespaces on tag input using String.trim()
+![alt text](https://www.dropbox.com/s/27z49sfrg601cag/search.png?raw=1 "Logo Title Text 1")
+
+### 2. Add a Tag
+
+![alt text](https://www.dropbox.com/s/qd2qcif0ukv4ela/tag.png?raw=1  "Logo Title Text 1")
+
